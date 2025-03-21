@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-  
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Matrix Style Coding" />
-
-
+  <img src="https://media.giphy.com/media/l0HU7jj0ivEFyO39a/giphy.gif" width="300" alt="80s Programmer GIF" />
 
 </p>
 
