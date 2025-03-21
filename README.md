@@ -1,42 +1,72 @@
-<h1 align="center">Hi, I'm <span style="color:#fca311">hViNh12</span> 👋</h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm hViNh12</h1>
+<h3 align="center">🚀 Senior Fullstack Developer | React | Tailwind | Bootstrap | PHP 🚀</h3>
 
+<!-- GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Senior+React+Developer;Fullstack+Web+%7C+AI+Lover;UI%2FUX+Design+Enthusiast;Let's+Code+and+Build+Awesome+Stuff!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Creative-0ea5e9?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Bootstrap-Senior-563d7c?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-Veteran-8892bf?style=for-the-badge&logo=php" />
+</p>
+
+<!-- QUOTE -->
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
 </p>
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently working on: `React Projects`, `AI with Python`, `Web3 apps`
-- 🌱 I’m learning: `Next.js`, `Docker`, `Microservices`
-- ⚡ Fun fact: I love building things from scratch and learning daily.
+<!-- ABOUT ME -->
+### 💻 About me:
+- 🔭 I’m currently working on **cutting-edge React & PHP projects**
+- 🌱 I’m sharpening my skills in **AI + DevOps + Cloud**
+- 💬 Ask me anything about **React, Tailwind, PHP, Bootstrap, Next.js**
+- ⚡ Fun fact: I code best with **lofi beats + a cup of coffee ☕**
 
 ---
 
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hViNh12&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hViNh12&layout=compact&theme=radical" height="150"/>
+<!-- TECH STACK -->
+### 🧰 Tech Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,php,js,ts,html,css,git,github,linux" />
 </p>
 
 ---
 
-### 📫 Contact Me:
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&style=flat-square)](https://facebook.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:your_email@gmail.com)
+<!-- STATS -->
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hViNh12&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hViNh12&theme=tokyonight" width="400"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+<!-- CONNECT -->
+### 🤝 Connect with me:
+<p>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
+
+---
+
+<!-- FOOTER ASCII -->
+```ascii
+     ______ _       _     _       _ 
+    |  ____(_)     (_)   | |     | |
+    | |__   _ _ __  _  __| | __ _| |
+    |  __| | | '_ \| |/ _` |/ _` | |
+    | |    | | | | | | (_| | (_| | |
+    |_|    |_|_| |_|_|\__,_|\__,_|_|
+                                     
