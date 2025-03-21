@@ -1,18 +1,9 @@
 <!-- MODERN & POLISHED README -->
 
 <h1 align="center" style="color:#0AE8F0;">Hi, I'm hViNh12 👋</h1>
-<p align="center" style="font-size:18px; color: red; animation: blink 1s infinite;">Senior Fullstack Developer | React | PHP | Tailwind | Bootstrap</p>
-
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0.3; }
-  100% { opacity: 1; }
-}
-</style>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&width=435&lines=Senior+Fullstack+Developer+|+React+|+PHP+|+Tailwind+|+Bootstrap" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,6 +19,13 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,php,bootstrap,js,ts,html,css,git,github,vscode,linux,docker,nodejs" />
+</p>
+
+---
+
+## 👨‍💻 Coding Mode
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
