@@ -1,63 +1,78 @@
-<!-- BANNER -->
+<!-- ASCII ART + DARK MODE HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0AE8F0&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+hViNh12;Senior+Fullstack+Dev+%F0%9F%9A%80+React+%7C+Tailwind+%7C+PHP+%7C+Bootstrap" alt="Typing SVG" />
+  <pre style="color:#0AE8F0; font-size:14px;">
+      ___  ___     _ _       _           
+     |  \/  |    | | |     | |          
+     | .  . | ___| | | __ _| |_ ___  _ __ 
+     | |\/| |/ _ \ | |/ _` | __/ _ \| '__|
+     | |  | |  __/ | | (_| | || (_) | |   
+     \_|  |_/\___|_|_|\__,_|\__\___/|_|   
+  </pre>
 </h1>
 
-<!-- SHINY BADGES -->
+<!-- MATRIX EFFECT GIF BACKGROUND -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-%2300C4B4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%236C5CE7.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237B2CBF.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Senior-🔥🔥🔥-orange?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/EaV8JXcX7Jk2Y/giphy.gif" width="100%"/>
 </p>
 
-<!-- GLOWING INTRO -->
+<!-- FLICKERING INTRO -->
 <p align="center">
-  <b><i><span style="color: #ff6ec7;">Crafting UI & backend</span> like a <span style="color: #0AE8F0;">sensei coder 🥷</span></i></b>
+  <b>
+    <span style="color: #00FF00; font-size: 24px; animation: flicker 1.5s infinite alternate; font-family: 'Courier New', Courier, monospace;">
+      🟢 SYSTEM ONLINE: Welcome to Senior Hacker's Terminal 🟢
+    </span>
+  </b>
+</p>
+
+<style>
+  @keyframes flicker {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+  }
+</style>
+
+---
+
+### ⚔️ About Me
+```bash
+> Handle: hViNh12
+> Class: 🛡️ Senior Fullstack Developer
+> Skills: React | PHP | Tailwind | Bootstrap | Linux
+> Quote: "In code we trust."
+```
+
+---
+
+### 🎯 My Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,php,bootstrap,js,ts,html,css,git,github,vscode,linux,docker,nodejs" />
 </p>
 
 ---
 
-<!-- ⚙️ ABOUT -->
-### 🚀 About Me:
-- 🌍 Senior Fullstack dev mastering the art of **React, TailwindCSS, PHP, Bootstrap**
-- 💡 Passion for creating **beautiful, functional & scalable** applications
-- 🚀 Always pushing the limits with **cutting-edge tech**
-- 🎯 Motto: "Code hard, ship harder ⚡"
-
----
-
-<!-- 🧙 TECH STACK -->
-### 🧙 Tech Toolbox:
+### 💹 Mission Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,php,bootstrap,js,ts,html,css,git,github,linux,vscode,figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hViNh12&show_icons=true&theme=dracula&count_private=true&hide_border=true&custom_title=Code+Intel+Report" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hViNh12&theme=dracula&hide_border=true" width="400"/>
 </p>
 
 ---
 
-<!-- STATS -->
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hViNh12&show_icons=true&theme=radical&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hViNh12&theme=radical&hide_border=true" width="400"/>
+### 🛰️ Terminal Status
+<p align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00; font-size: 16px;">
+  <b>System Log:</b> <span style="animation: flicker 1s infinite alternate;">Deploying next-gen solution... ███████░░ 80%</span>
 </p>
 
-<!-- SNAKE EFFECT -->
+<!-- HACKER BUTTON -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PRESS-ENTER-black?style=for-the-badge&logo=neovim&logoColor=green"/>
+</p>
+
+<!-- CONTRIBUTION SNAKE -->
 ![snake gif](https://github.com/hViNh12/hViNh12/blob/output/github-contribution-grid-snake.svg)
 
----
-
-<!-- CONNECT -->
-### 🔗 Connect with me:
+<!-- FOOTER MUSIC (hidden easter egg link) -->
 <p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Senior-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.youtube.com/watch?v=Hn1oGzZKq1c" target="_blank" style="color: #0AE8F0;">[ Secret Hacker OST 🎵 ]</a>
 </p>
-
----
-
-<!-- ANIMATED FOOTER -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+my+dojo+💻;Let's+build+something+legendary+!+🔥" alt="Typing SVG Footer" />
-</h3>
