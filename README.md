@@ -3,12 +3,16 @@
 <h1 align="center" style="color:#0AE8F0;">Hi, I'm hViNh12 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3C00&center=true&vCenter=true&repeat=false&width=600&lines=Senior+Fullstack+Developer+%7C+React+%7C+PHP+%7C+Tailwind+%7C+Bootstrap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF3C00&center=true&vCenter=true&repeat=false&width=600&lines=Senior+Fullstack+Developer" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF3C00&center=true&vCenter=true&repeat=false&width=600&lines=React+%7C+PHP+%7C+Tailwind+%7C+Bootstrap" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="cool coder typing" />
 </p>
+
 
 
 
