@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/nasa-space-astronaut-programming-coding-gif-26302541.gif" width="300" alt="NASA Coding GIF" />
+  <img src="https://media.giphy.com/media/29IeWbvLletfVPxZqy/giphy.gif" width="300" alt="NASA Coding GIF" />
 
 
 
