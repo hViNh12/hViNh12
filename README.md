@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HU7jj0ivEFyO39a/giphy.gif" width="300" alt="80s Programmer GIF" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300" alt="Retro Hacker GIF" />
+
 
 </p>
 
