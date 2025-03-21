@@ -3,7 +3,7 @@
 <h1 align="center" style="color:#0AE8F0;">Hi, I'm hViNh12 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&width=435&lines=Senior+Fullstack+Developer+|+React+|+PHP+|+Tailwind+|+Bootstrap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&width=600&lines=Senior+Fullstack+Developer;React+%7C+PHP+%7C+Tailwind+%7C+Bootstrap" alt="Typing SVG" />
 </p>
 
 ---
