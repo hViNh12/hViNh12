@@ -1,7 +1,19 @@
 <!-- MODERN & POLISHED README -->
 
 <h1 align="center" style="color:#0AE8F0;">Hi, I'm hViNh12 👋</h1>
-<p align="center" style="font-size:18px;">Senior Fullstack Developer | React | PHP | Tailwind | Bootstrap</p>
+<p align="center" style="font-size:18px; color: red; animation: blink 1s infinite;">Senior Fullstack Developer | React | PHP | Tailwind | Bootstrap</p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+</style>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
 
 ---
 
