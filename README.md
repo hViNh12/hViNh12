@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300" alt="Retro Hacker GIF" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Terminal Retro Coding" />
+
 
 
 </p>
